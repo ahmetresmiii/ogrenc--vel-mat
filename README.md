@@ -25,11 +25,11 @@ Proje, güncel web geliştirme standartlarına uygun olarak aşağıdaki teknolo
 
     Hızlı Erişim: Bulut tabanlı yapısı sayesinde her yerden erişim imkanı.
 
-💻 Kurulum
+💻 Kullanım
 
 Projeyi kullanmak için:
 
-    ahmethoca.vercel.app
+    ahmethoca1.vercel.app
 
 📝 İletişim
 
@@ -37,6 +37,6 @@ Proje ile ilgili sorularınız, geri bildirimleriniz veya iş birliği teklifler
 
 Ahmet Mesrur Şahin
 
-    ahmethoca.vercel.app
+    ahmethoca1.vercel.app
 
     AHMETRESMİİİ
