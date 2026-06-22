@@ -1036,7 +1036,7 @@ export default function App() {
             <div className="bg-slate-950/40 border border-slate-700/50 rounded-2xl p-4 flex flex-col sm:flex-row items-center justify-between gap-4 text-xs">
               <div className="flex items-center space-x-3 text-slate-400">
                 <FileSpreadsheet className="h-5 w-5 text-amber-400 flex-shrink-0" />
-                <span><strong>Öğretmen Bağlısınız:</strong>   Ahmet ŞAHİN (<code className="bg-slate-900 px-1.5 py-0.5 rounded text-amber-200">veliogrenci-cce71</code>) ÖĞRETMENİM İYİ Kİ VAR..</span>
+                <span><strong>Öğretmen Bağlısınız:</strong>   Ahmet ŞAHİN (<code className="bg-slate-900 px-1.5 py-0.5 rounded text-amber-200">veliogrenci-cce71-mat</code>) ÖĞRETMENİM İYİ Kİ VAR..</span>
               </div>
               <div className="text-slate-500 font-mono text-[10px] whitespace-nowrap bg-slate-900 px-2 py-1 rounded">ÖZEL DERS</div>
             </div>
