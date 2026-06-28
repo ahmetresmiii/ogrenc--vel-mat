@@ -853,7 +853,7 @@ export default function App() {
               <span className="text-xl font-black tracking-tight bg-gradient-to-r from-amber-400 via-pink-400 to-purple-400 bg-clip-text text-transparent">
                 DERSLİKE
               </span>
-              <p className="text-[10px] text-slate-400 font-medium tracking-widest uppercase">DİLTÜRKÇE*AhmetÖğretmen</p>
+              <p className="text-[10px] text-slate-400 font-medium tracking-widest uppercase">UYGULAMADİLİTÜRKÇE*AhmetÖğretmen</p>
             </div>
           </div>
 
